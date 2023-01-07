@@ -1,0 +1,9 @@
+.productmainstyle {
+   margin: 5px;
+   width: 15rem;
+   height: 18rem;
+   max-height: 18rem;
+   max-width: 15rem;
+   background-color: #ffff;
+   border-radius: 8px;
+}

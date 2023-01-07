@@ -1,0 +1,70 @@
+body {
+   margin: 0px;
+   padding: 0px;
+}
+
+.mainStyle {
+   min-height: 100vh;
+   background-color: #e2dfdf;
+   margin: 0px;
+   padding: 10px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.bgcolor {
+   background-color: #e2dfdf;
+}
+
+.navbar {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
+.subnavbar {
+   width: 90%;
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+}
+
+.subnavbartwo {
+   margin-top: 10px;
+   font-size: 1rem;
+   font-weight: 200;
+   color: #535353;
+   padding-left: 4px;
+}
+
+.glasstext {
+   font-size: 2rem;
+   font-weight: 200;
+   color: #313131;
+}
+
+.subglasstext {
+   font-size: 1.2rem;
+   font-weight: 200;
+   color: #535353;
+}
+
+.halfflex {
+   width: 50%;
+}
+
+.halfflextwo {
+   width: 40%;
+   padding-left: 4rem;
+}
+
+.dropstyle {
+   border: 0px;
+   outline: none;
+   margin-top: 5px;
+   background: none;
+   width: 6rem;
+   color: #313131;
+}

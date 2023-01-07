@@ -1,0 +1,11 @@
+Question - 1. How to find out of stock
+Tasks -
+	✅1. Create Group of each color(Red, Green, Blue, Yellow, Pink, Orange, Purple, Brown, Others) 
+	✅2. Write logic to shuffle the products of the Group.
+	✅3. Write Logic to shuffle the color group.
+	✅4. Sort by color.
+	5. Filter.
+	6. Outdated Collection at last. 
+
+Extra Ideas - 
+	1.
